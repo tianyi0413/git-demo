@@ -3,4 +3,11 @@ hello tianyi
 hello tianyi master
 hello tianyi 123 666
 hello tianyi
-hello tianyi hot-fix 2
+<<<<<<< HEAD
+hello tianyi hot-fix 26
+=======
+hello tianyi
+hello tianyi
+hello tianyi
+hello tianyi hot-fix 1
+>>>>>>> hot-fix
